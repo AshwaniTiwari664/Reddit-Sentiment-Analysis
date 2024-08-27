@@ -28,10 +28,18 @@ This program analyzes Reddit posts to identify the most frequently mentioned sto
     python reddit-sentiment-analysis.py
     ```
 
-## Sample Output
-![image](https://github.com/user-attachments/assets/d7005b01-108c-49ba-99e2-bb2df1c67e76)
+## Output
 
 It took 1574.61 seconds to analyze 14236 comments in 8 posts in 1 subreddit.
+
+**10 Most Mentioned Picks:**
+
+![10 Most Mentioned Picks](https://github.com/user-attachments/assets/28000d4f-2f49-4f01-a13e-e1e7af279c96)
+
+**Sentiment Analysis of Top 5 Picks:**
+
+![Sentiment Analysis of Top 5 Picks](https://github.com/user-attachments/assets/d7005b01-108c-49ba-99e2-bb2df1c67e76)
+
 
 
 **10 Most Mentioned Picks:**
